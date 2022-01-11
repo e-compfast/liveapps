@@ -2,13 +2,13 @@ import Constants from 'expo-constants';
 
 const settings = {
   dev: {
-    apiUrl: 'http://192.168.86.23:9000/api',
+    apiUrl: 'https://9000-chocolate-donkey-97ea6rxc.ws-us25.gitpod.io/api',
   },
   staging: {
-    apiUrl: 'http://192.168.86.23:9000/api',
+    apiUrl: 'https://9000-chocolate-donkey-97ea6rxc.ws-us25.gitpod.io/api',
   },
   prod: {
-    apiUrl: 'http://192.168.86.23:9000/api',
+    apiUrl: 'https://9000-chocolate-donkey-97ea6rxc.ws-us25.gitpod.io/api',
   },
 };
 
